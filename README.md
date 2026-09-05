@@ -379,4 +379,4 @@ The honest list of skills this project gave me:
 
 ---
 
-*Built by following the [Microsoft "Get started with ASP.NET Core MVC" tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-10.0) from start to finish, and then kept going. Repository: github.com/EvaLiisaAibast/Programmeeriimine2-MvcMovie.*
+*Built by following the [Microsoft "Get started with ASP.NET Core MVC" tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-10.0) from start to finish, and then kept going. 
